@@ -1,6 +1,6 @@
 {
-    "version": "3.5.1",
+    "version": "3.6.2",
     "forceUpdate": false,
     "updateUrl": "https://yuyuanzoey.itch.io/desktoplifewithfiendishkitty",
-    "updateMessage": "新版本 v3.5.1 已发布，建议重新下载安装包以获得完整体验！\n新增了数独小游戏；新增了版本更新提醒。"
+    "updateMessage": "新版本 v3.6.2 已发布，建议重新下载安装包以获得完整体验！\n新增了飞行棋小游戏；修复了屏幕适配贴边吸附问题。"
 }
